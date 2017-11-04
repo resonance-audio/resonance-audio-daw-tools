@@ -1,4 +1,4 @@
-# [Resonance Audio](//developers.google.com/resonance-audio) Tools for Digital Audio Workstations
+# [Resonance Audio](//developers.google.com/resonance-audio) DAW Tools
 
 Contains the Resonance Audio Monitor VST plugin, which enables listening to your ambisonic soundfield assets exactly as they will sound after uploading to YouTube or integrating into Resonance Audio SDK projects. 
 
