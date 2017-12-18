@@ -1,5 +1,10 @@
 # Release Notes
 
+## Resonance Audio DAW Tools v1.1.1
+
+### Bug fixes
+* Fixed a bug in stereo deinterleaving input buffer conversion that could lead to a crash.
+
 ## Resonance Audio DAW Tools v1.1.0
 
 ### Behavioral Changes
